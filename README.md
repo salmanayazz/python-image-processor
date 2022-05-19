@@ -6,7 +6,7 @@
 </p>
 
 
-The Python Image Processor is a simple image manipulation tool that allows you to apply various filters and perform advanced operations on image files. Whether you want to add creative effects like red, green, blue, sepia, warm, or cold filters, or you need to rotate, resize, or locate a yellow fish in an image.
+The Python Image Processor is a simple image manipulation tool that allows you to apply various filters and perform advanced operations on image files. You can add  red, green, blue, sepia, warm, and cold filter effects and even rotate, resize, or locate a yellow fish in an image.
 
 ## Installation
 
@@ -47,6 +47,10 @@ python image_processor.py
 - Double the Size: Increases the size of the image by a factor of 2.
 - Half the Size: Reduces the size of the image by a factor of 2.
 - Locate the Fish: Identifies yellow objects in the image and draws a box around them.
+
+### Other Functions
+- Reset: Don't like the changes you made? You can quickly reset the image to its original state.
+- Save: Save your resulting image where ever you want.
 
 ## Sample Images
 
