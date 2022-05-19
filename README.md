@@ -24,7 +24,7 @@ Place the image files you want to process in the samples/ directory within the p
 
 Open your terminal or command prompt and navigate to the project directory.
 
-Run the image_processor.py script with Python. You can do this by running the following command:
+Run the main.py script with Python. You can do this by running the following command:
 
 ```
 python main.py
