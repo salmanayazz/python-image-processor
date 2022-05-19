@@ -27,7 +27,7 @@ Open your terminal or command prompt and navigate to the project directory.
 Run the image_processor.py script with Python. You can do this by running the following command:
 
 ```
-python image_processor.py
+python main.py
 ```
 
 ## Features
